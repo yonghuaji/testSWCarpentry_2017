@@ -1,8 +1,9 @@
 # testSWCarpentry_2017
 ## Second level title
-1. first item
-2. second item
+### Added third level title
+1. first ITEM
 3. third item
+4. Fourth ITEM added on Tuesday
 
 *italics*
 **bold**
